@@ -1,0 +1,3 @@
+- Aprender Git y GitHub.
+- Crear proyectos reales.
+- Mejorar como desarrollador.
