@@ -1,1 +1,2 @@
 - Aprender Git y GitHub.
+- Desarrollar proyectos Full Stack.
