@@ -1,1 +1,2 @@
 Uso básico de computadoras
+Tengo una idea básica de que los programas se escriben en editores como Visual Studio Code.
