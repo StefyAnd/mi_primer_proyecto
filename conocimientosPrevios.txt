@@ -1,3 +1,4 @@
 Uso básico de computadoras
 Tengo una idea básica de que los programas se escriben en editores como Visual Studio Code.
 Sé que existen lenguajes como Python, HTML, CSS y JavaScript.
+Sé que Git sirve para guardar versiones del código y trabajar en equipo
