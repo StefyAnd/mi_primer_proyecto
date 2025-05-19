@@ -1,3 +1,3 @@
 - Aprender Git y GitHub.
-- Crear proyectos reales.
-- Mejorar como desarrollador.
+- Desarrollar proyectos Full Stack.
+- Mejorar mis habilidades en programación.
